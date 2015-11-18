@@ -1,0 +1,2 @@
+# streamsOk
+fitxers_corretgits
